@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Project 20 of Android Dev_ListView1</string>
+    <string name="simple_list_view">Simple List View \nto \nshow TODO list</string>
+    <string name="my_todo_task_list">My ToDo Task List</string>
+</resources>
